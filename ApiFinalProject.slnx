@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ApiFinalProject.API/ApiFinalProject.API.csproj" />
+  <Project Path="ApiFinalProject.BLL/ApiFinalProject.BLL.csproj" />
+  <Project Path="ApiFinalProject.Common/ApiFinalProject.Common.csproj" />
+  <Project Path="ApiFinalProject.DAL/ApiFinalProject.DAL.csproj" />
+</Solution>
